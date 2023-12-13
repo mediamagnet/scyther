@@ -8,8 +8,17 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  logging: ^1.0.0
+  nyxx: any
+  nyxx_interactions: any
+  toml: any
+  http: any
+  html: any
+  image: any
+  deep_pick: any
+  time_ago_provider: any
+  fnx_rest: ^4.1.1
 
 dev_dependencies:
-  lints: ^2.1.0
+  lints: any
   test: ^1.24.0
