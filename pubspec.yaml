@@ -13,7 +13,7 @@ dependencies:
   nyxx_commands: ^6.0.0
   nyxx_extensions: any
   toml: any
-  http: any
+  http: ^1.1.2
   html: any
   image: any
   deep_pick: any
