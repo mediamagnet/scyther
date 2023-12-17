@@ -10,14 +10,14 @@ environment:
 dependencies:
   logging: ^1.0.0
   nyxx: any
-  nyxx_interactions: any
+  nyxx_commands: ^6.0.0
+  nyxx_extensions: any
   toml: any
   http: any
   html: any
   image: any
   deep_pick: any
   time_ago_provider: any
-  fnx_rest: ^4.1.1
 
 dev_dependencies:
   lints: any
